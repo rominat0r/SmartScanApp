@@ -1,0 +1,26 @@
+<annotation>
+	<folder>berries</folder>
+	<filename>2022-07-08-165216.jpg</filename>
+	<path>/home/roman/Pictures/berries/2022-07-08-165216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>824</xmin>
+			<ymin>528</ymin>
+			<xmax>1177</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

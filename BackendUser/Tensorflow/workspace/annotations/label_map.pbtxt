@@ -1,0 +1,16 @@
+item { 
+	name:'apple'
+	id:1
+}
+item { 
+	name:'berries'
+	id:2
+}
+item { 
+	name:'nut'
+	id:3
+}
+item { 
+	name:'pisun'
+	id:4
+}

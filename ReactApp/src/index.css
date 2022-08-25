@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.modal-open > :not(.modal) {
+  transform: scale(1.1);
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
+}
