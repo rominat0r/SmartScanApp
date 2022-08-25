@@ -12,7 +12,7 @@ import main
 # Create your views here.
 
 class ProductList(APIView): 
-    permission_classes = (IsAuthenticated, )
+    #permission_classes = (IsAuthenticated, )
     def get(self, request):
         product = ProductModel.objects.all()
         serializer = ProductSerializer(product, many = True)
